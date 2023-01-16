@@ -4,7 +4,7 @@ Wordle is an online word game in which players have six attempts to guess a five
 
 Note: This application is still in development.
 
-## How to run for development:
+### How to run for development:
 
 ```bash
 npm install

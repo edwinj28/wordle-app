@@ -19,7 +19,7 @@ const Board: React.FC<BoardProps> = ({
   }
   return (
     <>
-      <div className="flex flex-col gap-2 items-center">
+      <div className="flex flex-col gap-1 items-center">
         {board.map((row, rowIndex) => (
           <div className="flex gap-1">
             {row.map((letter, letterIndex) => (

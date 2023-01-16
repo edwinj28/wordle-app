@@ -1,1 +1,4 @@
-"# wordle-app" 
+For development:
+
+How to run:
+npm run dev
